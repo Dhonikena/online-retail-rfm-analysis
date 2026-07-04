@@ -93,9 +93,7 @@ online-retail-rfm-analysis/
 ├── 02_rfm_calculation.sql
 ├── 03_segment_summary.sql
 ├── 04_segment_by_country.sql
-├── 05_monthly_revenue_trend.sql
-└── online_retail_combined.csv
-```
+└── 05_monthly_revenue_trend.sql
 
 ## How to Reproduce
 
@@ -104,6 +102,11 @@ online-retail-rfm-analysis/
 3. Load the data using `LOAD DATA INFILE`
 4. Run the SQL scripts in order (01 → 05)
 
+## Dataset Access
+
+Due to file size (>100MB), the raw dataset is not included in this repo.
+Download it directly from the UCI link above and follow the cleaning steps in `01_data_cleaning.sql` to reproduce the analysis.
+
 ## Author
 
-Rajasri | Data Analyst (Fresher) | [www.linkedin.com/in/rajasri-dhonikena-b1a775413]
+Rajasri | Data Analyst | [www.linkedin.com/in/rajasri-dhonikena-b1a775413]
