@@ -106,4 +106,4 @@ online-retail-rfm-analysis/
 
 ## Author
 
-Rajasri | Data Analyst (Fresher) | [LinkedIn] · [GitHub]
+Rajasri | Data Analyst (Fresher) | [www.linkedin.com/in/rajasri-dhonikena-b1a775413]
