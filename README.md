@@ -91,10 +91,8 @@ online-retail-rfm-analysis/
 ├── 02_rfm_calculation.sql
 ├── 03_segment_summary.sql
 ├── 04_segment_by_country.sql
-├── 05_monthly_revenue_trend.sql
-
+└── 05_monthly_revenue_trend.sql
 ```
-
 
 ## How to Reproduce
 
