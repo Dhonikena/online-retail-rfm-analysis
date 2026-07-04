@@ -92,7 +92,7 @@ online-retail-rfm-analysis/
 ├── 03_segment_summary.sql
 ├── 04_segment_by_country.sql
 ├── 05_monthly_revenue_trend.sql
-└── online_retail_combined.csv
+
 ```
 
 
