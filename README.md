@@ -84,13 +84,17 @@ Both years in the dataset show a clear ramp-up from September through November, 
 
 ## Repository Structure
 
+```
 online-retail-rfm-analysis/
 ├── README.md
 ├── 01_data_cleaning.sql
 ├── 02_rfm_calculation.sql
 ├── 03_segment_summary.sql
 ├── 04_segment_by_country.sql
-└── 05_monthly_revenue_trend.sql
+├── 05_monthly_revenue_trend.sql
+└── online_retail_combined.csv
+```
+
 
 ## How to Reproduce
 
