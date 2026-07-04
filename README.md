@@ -1,5 +1,3 @@
-# online-retail-rfm-analysis
-
 # Customer Segmentation using RFM Analysis (SQL)
 
 A SQL-based customer segmentation project using the **RFM (Recency, Frequency, Monetary)** framework on the Online Retail II dataset — identifying which customers to retain, win back, or deprioritize.
@@ -86,7 +84,6 @@ Both years in the dataset show a clear ramp-up from September through November, 
 
 ## Repository Structure
 
-```
 online-retail-rfm-analysis/
 ├── README.md
 ├── 01_data_cleaning.sql
@@ -94,19 +91,17 @@ online-retail-rfm-analysis/
 ├── 03_segment_summary.sql
 ├── 04_segment_by_country.sql
 └── 05_monthly_revenue_trend.sql
-```
 
 ## How to Reproduce
 
-1. Download the dataset from here (https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+1. Download the dataset from the [UCI link above](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 2. Create the `online_retail` table (schema in `01_data_cleaning.sql`)
 3. Load the data using `LOAD DATA INFILE`
 4. Run the SQL scripts in order (01 → 05)
 
 ## Dataset Access
 
-Due to file size (>100MB), the raw dataset is not included in this repo.
-Download it directly from the UCI link above and follow the cleaning steps in `01_data_cleaning.sql` to reproduce the analysis.
+Due to file size (>100MB), the raw dataset is not included in this repo. Download it directly from the UCI link above and follow the cleaning steps in `01_data_cleaning.sql` to reproduce the analysis.
 
 ## Author
 
